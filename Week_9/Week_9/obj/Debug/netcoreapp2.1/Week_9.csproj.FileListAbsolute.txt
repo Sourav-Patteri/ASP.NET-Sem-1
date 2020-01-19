@@ -1,0 +1,11 @@
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.csprojAssemblyReference.cache
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.csproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.AssemblyInfoInputs.cache
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.AssemblyInfo.cs
+C:\Users\soura\source\repos\Week_9\Week_9\bin\Debug\netcoreapp2.1\Week_9.deps.json
+C:\Users\soura\source\repos\Week_9\Week_9\bin\Debug\netcoreapp2.1\Week_9.runtimeconfig.json
+C:\Users\soura\source\repos\Week_9\Week_9\bin\Debug\netcoreapp2.1\Week_9.runtimeconfig.dev.json
+C:\Users\soura\source\repos\Week_9\Week_9\bin\Debug\netcoreapp2.1\Week_9.dll
+C:\Users\soura\source\repos\Week_9\Week_9\bin\Debug\netcoreapp2.1\Week_9.pdb
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.dll
+C:\Users\soura\source\repos\Week_9\Week_9\obj\Debug\netcoreapp2.1\Week_9.pdb

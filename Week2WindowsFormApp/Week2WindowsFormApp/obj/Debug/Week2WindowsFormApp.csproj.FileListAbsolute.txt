@@ -1,0 +1,10 @@
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\bin\Debug\Week2WindowsFormApp.exe.config
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\bin\Debug\Week2WindowsFormApp.exe
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\bin\Debug\Week2WindowsFormApp.pdb
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.csprojAssemblyReference.cache
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.Form1.resources
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.Properties.Resources.resources
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.exe
+C:\Users\soura\source\repos\Week2WindowsFormApp\Week2WindowsFormApp\obj\Debug\Week2WindowsFormApp.pdb

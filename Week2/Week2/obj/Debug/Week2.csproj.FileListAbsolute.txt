@@ -1,0 +1,7 @@
+C:\Users\soura\source\repos\Week2\Week2\bin\Debug\Week2.exe.config
+C:\Users\soura\source\repos\Week2\Week2\bin\Debug\Week2.exe
+C:\Users\soura\source\repos\Week2\Week2\bin\Debug\Week2.pdb
+C:\Users\soura\source\repos\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\Users\soura\source\repos\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\Week2\Week2\obj\Debug\Week2.exe
+C:\Users\soura\source\repos\Week2\Week2\obj\Debug\Week2.pdb
